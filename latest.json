@@ -1,7 +1,7 @@
 {
-  "notes": "Versao 1.5.1: URL RAW de update padrao, parse robusto do manifest, rodape com contato e sem credenciais hardcoded.",
-  "published_at": "2026-03-01T21:15:08Z",
-  "url": "https://github.com/joaovitorferrazparo/slac_updates/raw/main/SLAC_downloader-Setup-v1.5.1.exe",
-  "version": "1.5.1",
-  "sha256": "420b88ff7b97059e78a0d41f65c026195a2217eede53042d5bc5c69db6cad7d2"
+  "version": "1.5.2",
+  "url": "https://github.com/joaovitorferrazparo/slac_updates/raw/main/SLAC_downloader-Setup-v1.5.2.exe",
+  "sha256": "287ace750af917b01717156600434616cda9fb2ced294f5c423290bc76319345",
+  "notes": "Versao 1.5.2: opcao para limpar _slac_cache_raw ao finalizar, contato no rodape e ajustes de update.",
+  "published_at": "2026-03-01T21:34:59Z"
 }
