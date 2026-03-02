@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
-  "url": "https://github.com/joaovitorferrazparo/slac_updates/raw/main/SLAC_downloader-Setup-v1.5.2.exe",
-  "sha256": "287ace750af917b01717156600434616cda9fb2ced294f5c423290bc76319345",
-  "notes": "Versao 1.5.2: opcao para limpar _slac_cache_raw ao finalizar, contato no rodape e ajustes de update.",
-  "published_at": "2026-03-01T21:34:59Z"
+    "version":  "1.5.3",
+    "url":  "https://github.com/joaovitorferrazparo/slac_updates/raw/main/SLAC_downloader-Setup-v1.5.3.exe",
+    "sha256":  "efa5d5c69fcb02bae81f6df56d535cb38ee969b550d7f64277a36372540071df",
+    "notes":  "Versao 1.5.3: melhorias de performance de download (reuso de cache por geometria e ajustes de concorrencia/rede).",
+    "published_at":  "2026-03-02T10:38:08Z"
 }
