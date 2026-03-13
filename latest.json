@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.3",
-    "url":  "https://github.com/joaovitorferrazparo/slac_updates/raw/main/SLAC_downloader-Setup-v1.5.3.exe",
-    "sha256":  "efa5d5c69fcb02bae81f6df56d535cb38ee969b550d7f64277a36372540071df",
-    "notes":  "Versao 1.5.3: melhorias de performance de download (reuso de cache por geometria e ajustes de concorrencia/rede).",
-    "published_at":  "2026-03-02T10:38:08Z"
+    "version":  "1.6.1",
+    "url":  "https://github.com/joaovitorferrazparo/slac_updates/raw/main/SLAC_downloader-Setup-v1.6.1.exe",
+    "sha256":  "c4593294126ce5ed910f86200b091c632a00e2213c7ae73e308828be081165b8",
+    "notes":  "Versao 1.6.1: adiciona a Grade Sentinel Brasil no fluxo de geometrias e traz ajustes de interface e resultados.",
+    "published_at":  "2026-03-13T02:46:02Z"
 }
